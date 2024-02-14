@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+table {
+  width: 75%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+td {
+  width: 33.33%;
+  height: 50px;
+  border: 2px solid #020202;
+}
+.container {
+  width: min(100% - 40px, 1340px);
+  margin-inline: auto;
+}
+.h200 {
+  height: 200px;
+}
+.table2 {
+  width: 90%;
+}
+.h50 {
+  height: 50px;
+}
+.table3 {
+  width: 80%;
+}
+.w60 {
+  width: 60%;
+}
+.w28 {
+  width: 28%;
+}
+.w33 {
+  width: 33.33%;
+}
+.w34 {
+  width: 33.33%;
+  height: 200px;
+}
